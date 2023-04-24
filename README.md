@@ -344,7 +344,7 @@ $
 
 👤 **UTIBE UDO OTON**
 
-- GitHub: [@youtee](https://github.com/youtee)
+- GitHub: [@youtee-oton](https://github.com/youtee-oton)
 
 👤 **KUFRE EKANEM**
 
