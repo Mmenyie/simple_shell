@@ -9,7 +9,7 @@
 #include <errno.h> /* for errno and perror */
 #include <sys/types.h> /* for type pid */
 #include <sys/wait.h> /* for wait */
-#include <sys/stat.h> /* for use of stat function */
+#include <sys/stat.h> /* for use of & function */
 #include <signal.h> /* for signal management */
 #include <fcntl.h> /* for open files*/
 
